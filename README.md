@@ -1,4 +1,4 @@
-# 🧠 004 Kalmar Filter: Implementation
+# 🧠 004 Kalman Filter: Implementation
 ### ITESO — Market Microstructure and Trading Systems  
 **Autores:**  
 - José Armando Melchor Soto  
